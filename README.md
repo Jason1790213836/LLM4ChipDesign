@@ -15,8 +15,7 @@
 - [Masala-CHAI: A Large-Scale SPICE Netlist Dataset for Analog Circuits by Harnessing AI](#masala-chai-a-large-scale-spice-netlist-dataset-for-analog-circuits-by-harnessing-ai)
 - [VeriContaminated: Assessing LLM-Driven Verilog Coding for Data Contamination](#vericontaminated-assessing-llm-driven-verilog-coding-for-data-contamination)
 - [SALAD: Systematic Assessment of Machine Unlearning on LLM-Aided Hardware Design](#salad-systematic-assessment-of-machine-unlearning-on-llm-aided-hardware-design)
-- [LockForge: Automating Paper-to-Code for Logic Locking with Multi-Agent Reasoning LLMs]
-(#lockForge-automating-paper-to-code-for-logic-locking-with-multi-agent-reasoning-llms)
+- [LockForge: Automating Paper-to-Code for Logic Locking with Multi-Agent Reasoning LLMs](#lockForge-automating-paper-to-code-for-logic-locking-with-multi-agent-reasoning-llms)
 - [Course Project: LLM-Based Verilog Adder Generation and Verification](#course-project-llm-based-verilog-adder-generation-and-verification)
 - [Git Submodules (Add / Update / Delete)](#git-submodules-add--update--delete)
 
