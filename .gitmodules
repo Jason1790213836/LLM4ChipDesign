@@ -44,3 +44,7 @@
 	path = VGen
 	url = https://github.com/shailja-thakur/VGen.git
 	branch = main
+[submodule "VeriReason"]
+	path = VeriReason
+	url = https://github.com/NellyW8/VeriReason.git
+	branch = main
