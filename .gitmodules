@@ -52,3 +52,7 @@
 	path = GHOST
 	url = https://github.com/NMSU-PEARL/GHOST_benchmarks.git
 	branch = main
+[submodule "ATTRITION"]
+	path = ATTRITION
+	url = https://github.com/gohil-vasudev/ATTRITION.git
+	branch = main
