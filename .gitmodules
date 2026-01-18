@@ -40,3 +40,7 @@
 	path = VeriDispatcher
 	url = https://github.com/zwangsyc/VeriOracle.git
 	branch = main
+[submodule "VGen"]
+	path = VGen
+	url = https://github.com/shailja-thakur/VGen.git
+	branch = main
