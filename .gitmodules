@@ -68,3 +68,7 @@
 	path = SALAD
 	url = https://github.com/DfX-NYUAD/SALAD.git
 	branch = main
+[submodule "NSPG"]
+	path = NSPG
+	url = https://github.com/TIES-Lab/NSPG.git
+	branch = main
