@@ -1,4 +1,4 @@
-# Generative AI for Chip Design 
+# GUIDE: GenAI Units In Digital Design Education
 
 ## Abstract
 GenAI Units In Digital Design Education (GUIDE), is an open courseware repository with runnable Google Colab labs. GUIDE organizes materials as topics, subtopics, and units across LLM-aided Register-Transfer Level (RTL) generation, LLM-aided RTL verification, and LLM-aided hardware security. We describe the repository architecture and the standard unit package: slides, short videos, runnable labs, and related papers, together with recommended metadata and student deliverables so instructors can reuse units and grade them consistently.
