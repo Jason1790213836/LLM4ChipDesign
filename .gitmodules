@@ -56,3 +56,7 @@
 	path = ATTRITION
 	url = https://github.com/gohil-vasudev/ATTRITION.git
 	branch = main
+[submodule "NOODLE"]
+	path = NOODLE
+	url = https://github.com/cars-lab-repo/NOODLE.git
+	branch = main
