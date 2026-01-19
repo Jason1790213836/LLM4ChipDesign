@@ -60,3 +60,7 @@
 	path = NOODLE
 	url = https://github.com/cars-lab-repo/NOODLE.git
 	branch = main
+[submodule "TrojanLoc"]
+	path = TrojanLoc
+	url = https://github.com/FCHXWH823/TrojanLoc.git
+	branch = main
