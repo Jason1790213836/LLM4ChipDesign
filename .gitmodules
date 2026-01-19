@@ -64,3 +64,7 @@
 	path = TrojanLoc
 	url = https://github.com/FCHXWH823/TrojanLoc.git
 	branch = main
+[submodule "SALAD"]
+	path = SALAD
+	url = https://github.com/DfX-NYUAD/SALAD.git
+	branch = main
